@@ -376,11 +376,13 @@ ttf-liberation
 #Installer
 grub
 calamares
-alg-theme-cala-config
 os-prober
 
 #AUR Helper
 paru
+
+#MEMTEST
+memtest86+
 
 #Chaotic AUR
 chaotic-keyring
