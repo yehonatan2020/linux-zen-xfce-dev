@@ -331,7 +331,7 @@ vim
 wget
 zip
 
-#Optionals
+#Extras
 python-pyudev
 python-libevdev
 libgit2-glib
