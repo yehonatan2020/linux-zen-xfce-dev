@@ -331,6 +331,7 @@ sdl12-compat
 vim-runtime
 vim
 wget
+yarn
 zip
 
 #Extras
